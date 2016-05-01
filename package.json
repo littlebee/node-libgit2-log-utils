@@ -1,6 +1,6 @@
 {
   "name": "node-libgit2-log-utils",
-  "version": "0.3.0",
+  "version": "0.2.9",
   "description": "Simple utility functions for fetching git history using libgit2 built for Nodejs",
   "main": "index.js",
   "scripts": {
